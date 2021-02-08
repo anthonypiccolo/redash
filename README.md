@@ -8,3 +8,4 @@ Redash Docker Instance
 5. Run `docker-compose up -d`
 6. Visit `localhost:5000`
 7. To stop run `docker-compose stop`
+8. This is also a helpful article [here](https://medium.com/@ikishan/creating-a-new-age-dashboard-with-self-hosted-open-source-redash-41e91434390)
